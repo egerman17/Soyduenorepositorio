@@ -1,1 +1,1 @@
-# Soyduenorepositorio
+# Soy dueño del repositorio
